@@ -1,0 +1,5 @@
+{
+  "name": "Game Recommendation System",
+  "description": "A system that recommends games to users based on their preferences, behavior, and game attributes using simulated data mining techniques. Features include preference selection, a smart search bar, and visualizations of recommended game genres.",
+  "requestFramePermissions": []
+}
